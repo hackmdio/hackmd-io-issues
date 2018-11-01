@@ -28,6 +28,10 @@ Provide steps to reproduce:
 3. Scroll down to '....'
 4. See error
 
+If possible, create a note with reproducible content and share the link with us.
+
+e.g. note link: https://hackmd.io/features
+
 #### Expected behaviour
 
 (description of expected behaviour)
