@@ -43,7 +43,7 @@ I use HackMD on:
 **Desktop**
 - OS: [eg. macOS]
 - Browser: [e.g. chrome, safari, firefox, opera]
-- Brwoser Version: [71]
+- Browser Version: [71]
 
 **Mobile**
 
