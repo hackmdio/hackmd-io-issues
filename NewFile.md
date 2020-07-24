@@ -1,16 +1,10 @@
----
-tags: tutorials
-disqus: hackmd
----
 # Use comment to collaborate asynchronously <i class="fa fa-commenting-o"></i>
 
-You can join the discussion using Comments <i class="fa fa-commenting-o"></i>. 
-While HackMD does best in real-time collaboration, some contributions happen asynchronously. Comment is best for these use cases.
+[![hackmd-github-sync-badge](https://stage.hackmd.io/_t0Z09AzTTWutQyzHTDwLw/badge)](https://stage.hackmd.io/_t0Z09AzTTWutQyzHTDwLw)
 
-## Write comment
-Writing a comment is easy: select the text you want to comment on and hit the **<i class="fa fa-commenting"></i> Comment** button that pops up. Leave the comment on the right-hand side comment area.
 
-**▲ Select the text you want and leave a comment** 
+Comment is best for these use cases. You can join the discussion using Comments <i class="fa fa-commenting-o"></i>. 
+While HackMD does best in real-time collaboration, some contributions happen asynchronously. 
 
 :::info
 :bulb: **Hint:** You need to sign-in to leave a comment.
