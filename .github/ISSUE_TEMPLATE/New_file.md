@@ -1,5 +1,8 @@
 # Hello world
 
+[![hackmd-github-sync-badge](https://stage.hackmd.io/o7HTNvQqTfeKMTt5JRtzrA/badge)](https://stage.hackmd.io/o7HTNvQqTfeKMTt5JRtzrA)
+
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
