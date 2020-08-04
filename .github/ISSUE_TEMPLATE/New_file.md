@@ -1,6 +1,6 @@
 # Hello world
 
-[![hackmd-github-sync-badge](https://stage.hackmd.io/o7HTNvQqTfeKMTt5JRtzrA/badge)](https://stage.hackmd.io/o7HTNvQqTfeKMTt5JRtzrA)
+[![hackmd-github-sync-badge](https://hackmd.io/de8dsKZbTWq79Yd6kCOKzg/badge)](https://hackmd.io/de8dsKZbTWq79Yd6kCOKzg)
 
 
 ---
