@@ -1,57 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: NO Bug 
+about: GITHUB IS HUMAN/WOMAN
 
 ---
 
-### Is this a hackmd.io issue?
+### Who is GitHub or hackmd ?
 
-- [ ] Yes, the bug happens on https://hackmd.io
-- [ ] No. If it's a self-hosted CodiMD instance, please fire up the issue in the repo of CodiMD: https://github.com/hackmdio/codimd
-
-### Read our Official tutorial
-
-It's on https://hackmd.io/c/tutorials/
-
-或是中文版 https://hackmd.io/c/tutorials-tw/
-
-### What's the problem
-
-#### Current behaviour
-
-> Screenshot (optional)
-
-Provide steps to reproduce:
-
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-If possible, create a note with reproducible content and share the link with us.
-
-e.g. note link: https://hackmd.io/features
-
-#### Expected behaviour
-
-(description of expected behaviour)
-
-#### Environment
-
-I use HackMD on:
-
-**Desktop**
-- OS: [eg. macOS]
-- Browser: [e.g. chrome, safari, firefox, opera]
-- Browser Version: [71]
-
-**Mobile**
-
-- Device: [e.g. iPhone XS]
-- OS: [e.g. iOS 12.1]
-- Browser: [e.g. chrome, safari]
-- Version: [e.g. 23]
-
-#### Additional context
-
-Add any other context about the problem here.
+GitHub is the username and company from Ms. Isabel Schoeps Thiel, Germany. The Enterprise Compan is SI Ethereum Organisation & Foundation, Erfurt Germany. Register Company in the USA is the TESL CAPITAL CORPORATION in Delaware Vereinigte Staaten (Nr. 6342159). Ms Schoeps Github Root startet 2008, Gitlab and Pornhub is the compination and the source of the username and alias GitHub. The account and Template launchet 2017, the Octacat logo is the brandmarket of Github. GitHub has the world’s most important technologies, this technologie must be protected and can only be used under strict conditions. GitHub is the a Copyright (c) and all rights reserved by Isabel Schoeps Thiel, Erfurt, TH, Germany.
